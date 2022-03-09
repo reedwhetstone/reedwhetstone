@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @reedwhetstone
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning js, how to build web apps
-- 💞️ I’m looking to collaborate on sexy, beautiful things
-- 📫 How to reach me greeenaziod@gmail.com or @reed.whetstone (insta)
+- Hi, I’m @reedwhetstone
+- I’m learning every day. I'd like to get into blockchain development, but right now I'm figuring out the MERN stack.
+- I'm decent with 
+    - html.   - css.   - js.   - node.   - mongo.   - express.   - CRUDapps.   - git
+- I’m looking to collaborate on sexy, beautiful things
+- reach me here, www.threestepstagger, or @reed.whetstone (insta)
 
 <!---
 reedwhetstone/reedwhetstone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
