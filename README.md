@@ -1,9 +1,19 @@
-- Hi, I’m @reedwhetstone
-- I’m learning every day. I'd like to get into blockchain development but right now I'm figuring out the MERN stack.
-- I'm decent with 
-    +html   +css   +js   +node   +mongo   +express   +CRUDapps   +git
-- I’m looking to collaborate on sexy, beautiful things
-- reach me here, www.threestepstagger, or @reed.whetstone (insta)
+<h1> Hi, I’m @reedwhetstone </h1>
+<ul>
+	<li>
+		I’m learning every day. I'd like to get into blockchain development but right now I'm figuring out the MERN stack.
+	</li>
+	<li>
+		I'm decent with <br>
+		- html   - css   - js   - node   - mongo   - express   - CRUDapps   - git
+	</li>
+	<li>
+		I’m looking to collaborate on sexy, beautiful things
+	</li>
+	<li>
+		Reach me here, www.threestepstagger, or @reed.whetstone (insta)
+	</li>
+</ul>
 
 <!---
 reedwhetstone/reedwhetstone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
