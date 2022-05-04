@@ -5,7 +5,7 @@
 	</li>
 	<li>
 		I'm decent with <br>
-		- html   - css   - js   - node   - mongo   - express   - CRUDapps   - git
+		- html   - css / bootstrap   - js   - node   - mongo   - express   - CRUDapps   - git
 	</li>
 	<li>
 		I’m looking to collaborate, challenge myself, and build my skillset.
