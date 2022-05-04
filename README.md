@@ -1,14 +1,17 @@
 <h1> Hi, I’m @reedwhetstone </h1>
 <ul>
 	<li>
-		I’m learning every day. I'd like to get into blockchain development but right now I'm figuring out the MERN stack.
+		I’m learning every day. Right now I'm figuring out the MERN stack.
 	</li>
 	<li>
 		I'm decent with <br>
 		- html   - css   - js   - node   - mongo   - express   - CRUDapps   - git
 	</li>
 	<li>
-		I’m looking to collaborate on sexy, beautiful things
+		I’m looking to collaborate, challenge myself, and build my skillset.
+	</li>
+	<li>
+		Check out my recent (ever evolving) full stack CRUD project - https://aircmp.herokuapp.com/
 	</li>
 	<li>
 		Reach me here, www.threestepstagger, or @reed.whetstone (insta)
