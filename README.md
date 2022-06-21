@@ -5,13 +5,13 @@
 	</li>
 	<li>
 		I'm decent with <br>
-		- html   - css / bootstrap   - js   - node   - mongo   - express   - CRUDapps   - git
+		- html   - css / bootstrap / scss   - js   - node   - mongo   - express   - CRUDapps   - git   - react
 	</li>
 	<li>
 		I’m looking to collaborate, challenge myself, and build my skillset.
 	</li>
 	<li>
-		Check out my recent (ever evolving) full stack CRUD project - https://aircmp.herokuapp.com/
+		Check out my recent full stack CRUD project - https://aircmp.herokuapp.com/
 	</li>
 	<li>
 		Reach me here, www.threestepstagger, or @reed.whetstone (insta)
