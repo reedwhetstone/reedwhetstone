@@ -14,7 +14,7 @@
 		Check out my recent full stack CRUD project - https://aircmp.herokuapp.com/
 	</li>
 	<li>
-		Reach me here, www.threestepstagger, or @reed.whetstone (insta)
+		Reach me here, www.threestepstagger.com , or @reed.whetstone (insta)
 	</li>
 </ul>
 
