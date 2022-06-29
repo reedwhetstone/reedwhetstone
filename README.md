@@ -1,11 +1,7 @@
 <h1> Hi, I’m @reedwhetstone </h1>
 <ul>
 	<li>
-		I’m learning every day. Right now I'm figuring out the MERN stack.
-	</li>
-	<li>
-		I'm decent with <br>
-		- html   - css / bootstrap / scss   - js   - node   - mongo   - express   - CRUDapps   - git   - react
+		I'm a react.js full stack dev.
 	</li>
 	<li>
 		I’m looking to collaborate, challenge myself, and build my skillset.
